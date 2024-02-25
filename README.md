@@ -74,6 +74,17 @@ print("Ytrain:" ,Ytrain, "\nYtest:", Ytest)                   # Y Train and Test
 ```
 
 ## OUTPUT:
+## DATASET:
+![image](https://github.com/Adhithyaram29D/Ex-1-NN/assets/119393540/bf668410-477d-4614-a08c-0f3627d1789f)
+## NULL VALUES:
+![image](https://github.com/Adhithyaram29D/Ex-1-NN/assets/119393540/08e0e171-e351-4cb6-8ebd-c19cfe7e7929)
+## NORMALIZED DATA:
+![image](https://github.com/Adhithyaram29D/Ex-1-NN/assets/119393540/a3605b2b-7a2c-4944-bfd5-3f2464748c11)
+## DATA SPLITTING:
+![image](https://github.com/Adhithyaram29D/Ex-1-NN/assets/119393540/8d165786-d0be-4219-8005-2e12ca155b72)
+## TRAIN AND TEST DATA:
+![image](https://github.com/Adhithyaram29D/Ex-1-NN/assets/119393540/e0d9d8e8-0266-4638-8aba-4965a02655e2)
+![image](https://github.com/Adhithyaram29D/Ex-1-NN/assets/119393540/a52d9643-e6e0-4643-a307-9da1c97672cd)
 
 
 ## RESULT:
